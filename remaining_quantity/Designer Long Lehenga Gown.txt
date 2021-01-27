@@ -1,0 +1,5 @@
+Name:Designer Long Lehenga Gown
+Description:
+Brand:Shwapno
+Type:Long Lehenga
+Price:4500 BDT

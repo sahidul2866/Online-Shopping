@@ -1,0 +1,8 @@
+Name:TVS Jupiter
+Description:
+Brand:TVS
+Type:Scooty
+Model:Scooty Jupiter 100cc
+Engine Displacement: 109 cc
+Price: 1,64,900 BDT
+

@@ -1,0 +1,8 @@
+Name:Toyota-Ti-CARINA
+Description:
+Brand:Toyota
+Model:Ti-CARINA
+Release Year: 2000
+Engine Capacity	: 1500 CC
+Miles: 65000 KM
+Price : 900,000 BDT

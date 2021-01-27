@@ -1,0 +1,9 @@
+Name:Samsung-Galaxy-A8-plus 
+Description: 
+Brand:Samsung 
+Model:A8-plus 
+Release Year:2017 
+Ram:3GB 
+CPU:1.6Ghz 
+Price:65900 BDT
+

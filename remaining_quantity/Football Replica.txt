@@ -1,0 +1,6 @@
+Name:Football Replica
+Description:
+Brand:ReeBok
+Weight:430gm
+Circumference:70cm
+Price:1600 BDT

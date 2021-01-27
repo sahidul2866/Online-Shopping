@@ -1,0 +1,7 @@
+Name:Yamaha Fazer V2
+Description:
+Brand:Yamaha
+Type:Bike
+Model:Fazer V2
+Engine Displacement: 200 cc
+Price: 2,63,000 BDT

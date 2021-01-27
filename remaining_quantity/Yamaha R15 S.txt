@@ -1,0 +1,8 @@
+Name:Yamaha R15 S
+Description:
+Brand:Yamaha
+Type:Bike
+Model:R15 s
+Engine Displacement: 200 cc
+Price: 3,95,000 BDT
+

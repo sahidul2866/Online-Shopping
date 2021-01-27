@@ -1,0 +1,5 @@
+Name:Leather Belt
+Description:
+Brand:Leather Company
+Color:Black
+Price:650 BDT

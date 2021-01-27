@@ -1,0 +1,7 @@
+Name:Hero Hf Dawn
+Description:
+Brand:Hero
+Type:Bike
+Model:Hf Dawn
+Engine Displacement: 100 cc
+Price: 95,000 BDT

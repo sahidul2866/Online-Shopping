@@ -1,0 +1,8 @@
+Name:Toyota ISIS 2006
+Description:
+Brand:Toyota
+Model:ISIS
+Release Year: 2006
+Engine Capacity	: 2500 CC
+Miles: 68000 KM
+Price : 1,498,000 BDT

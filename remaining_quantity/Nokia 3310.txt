@@ -1,0 +1,9 @@
+Name:Nokia 3310
+Description: 
+Brand:Nokia
+Model:3310 
+Release Year: 2017 
+Interal Memory: 16MB 
+USB: MicroUSB v2.0 
+Price: 4650 BDT
+

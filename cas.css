@@ -1,0 +1,124 @@
+/* VARIABLE DEFINITIONS: Only these 4 variables have to be adjusted, the rest is copy-paste */
+* {
+    -fx-my-menu-color:#4b0082 ;   //#4682b4 ;   //#add8e6;                  /* Change according to your needs */
+    -fx-my-menu-color-highlighted: #455a64;      /* Change according to your needs */
+    -fx-my-menu-font-color: #FFFFFF;             /* Change according to your needs */
+    -fx-my-menu-font-color-highlighted: #FFFFFF; /* Change according to your needs */
+}
+
+//indigo = #4b0082
+
+
+
+               /* MENU BAR + Top-level MENU BUTTONS */
+               /*** The menu bar itself ***/
+           .menu-bar {
+               -fx-background-color: -fx-my-menu-color;
+           }
+
+/*** Top-level menu itself (not selected / hovered) ***/
+.menu-bar > .container > .menu-button {
+//   -fx-background-color: -fx-my-menu-color;
+    -fx-background-color: #808000;
+
+}
+
+/*** Top-level menu's label (not selected / hovered) ***/
+.menu-bar > .container > .menu-button > .label {
+    -fx-text-fill: -fx-my-menu-font-color;
+}
+
+/*** Top-level menu's label (disabled) ***/
+.menu-bar > .container > .menu-button > .label:disabled {
+    -fx-opacity: 1.0;
+}
+
+/*** Top-level menu itself (selected / hovered) ***/
+.menu-bar > .container > .menu-button:hover,
+.menu-bar > .container > .menu-button:focused,
+.menu-bar > .container > .menu-button:showing {
+    -fx-background-color: #6b8e23;
+
+//-fx-my-menu-color-highlighted;
+}
+
+/*** Top-level menu's label (selected / hovered) ***/
+.menu-bar > .container > .menu-button:hover > .label,
+.menu-bar > .container > .menu-button:focused > .label,
+.menu-bar > .container > .menu-button:showing > .label {
+    -fx-text-fill: -fx-my-menu-font-color-highlighted;
+}
+
+/* MENU ITEM (children of a MENU BUTTON) */
+/*** The item itself (not hovered / focused) ***/
+.menu-item {
+    -fx-background-color: -fx-my-menu-color;
+}
+
+/*** The item's label (not hovered / focused) ***/
+.menu-item .label {
+    -fx-text-fill: -fx-my-menu-font-color;
+}
+
+/*** The item's label (disabled) ***/
+.menu-item .label:disabled {
+    -fx-opacity: 1.0;
+}
+
+/*** The item itself (hovered / focused) ***/
+.menu-item:focused, .menu-item:hovered {
+    -fx-background-color: -fx-my-menu-color-highlighted;
+}
+
+/*** The item's label (hovered / focused) ***/
+.menu-item:focused .label, .menu-item:hovered .label {
+    -fx-text-fill: -fx-my-menu-font-color-highlighted;
+}
+
+/* CONTEXT MENU */
+/*** The context menu that contains a menu's menu items ***/
+.context-menu {
+    -fx-background-color: -fx-my-menu-color;
+}
+
+
+
+/*
+.custom-node {
+-fx-background-color: skyblue, derive(skyblue, 25%);
+-fx-background-insets: -20, -10;
+-fx-background-image: url("E:\\java programming\\Pictures\\HOMEPAGe.jpg");
+-fx-background-position: left top, center;
+-fx-background-repeat: no-repeat;
+-fx-background-size: cover, auto;
+}
+
+*/
+
+/*.button {
+    -fx-background-color:
+        linear-gradient(#686868 0%, #232723 25%, #373837 75%, #757575 100%),
+        linear-gradient(#020b02, #3a3a3a),
+        linear-gradient(#9d9e9d 0%, #6b6a6b 20%, #343534 80%, #242424 100%),
+        linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%),
+        linear-gradient(#777777 0%, #606060 50%, #505250 51%, #2a2b2a 100%);
+    -fx-background-insets: 0,1,4,5,6;
+    -fx-background-radius: 9,8,5,4,3;
+    -fx-padding: 15 30 15 30;
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( three-pass-box , rgba(255,255,255,0.2) , 1, 0.0 , 0 , 1);
+}
+*/
+//lightsteelblue =
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: #b0c4de;
+// -fx-background-color: linear-gradient(#ffdead, #2A5058);
+// -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}

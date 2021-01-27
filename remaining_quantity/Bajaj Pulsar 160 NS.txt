@@ -1,0 +1,8 @@
+Name:Bajaj Pulsar 160 NS
+Description:
+Brand:Bajaj
+Type:Scooty
+Model:Pulsar 160 NS
+Engine Displacement: 160 cc
+Price: 1,99,500 BDT
+

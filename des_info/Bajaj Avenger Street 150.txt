@@ -1,0 +1,7 @@
+Name:Bajaj Avenger Street 150
+Description:
+Brand:Bajaj
+Type:Bike
+Model:Avenger Street 150
+Engine Displacement: 200 cc
+Price: 1,99,500 BDT

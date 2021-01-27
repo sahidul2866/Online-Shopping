@@ -1,0 +1,10 @@
+Name:Huawei Y7
+Description: 
+Brand:Huawei
+Model:Y7 
+Release Year: 2017 
+RAM: 2 GB
+ROM: 16 GB 
+CPU: 1.4Ghz 
+Price: 13990 BDT
+

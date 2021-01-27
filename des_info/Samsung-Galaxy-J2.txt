@@ -1,0 +1,9 @@
+Name:Samsung-Galaxy-J2 
+Description: 
+Brand:Samsung 
+Model:A8-plus 
+Release Year:2015 
+Ram:1GB 
+CPU:1.3Ghz 
+Price:9900 BDT
+

@@ -1,0 +1,8 @@
+Name:H Power Recover
+Description:
+Brand:TVS
+Type:Bike
+Model:H Power Recover 110cc
+Engine Displacement: 129 cc
+Price: 1,15,000 BDT
+

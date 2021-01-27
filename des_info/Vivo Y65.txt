@@ -1,0 +1,10 @@
+Name:Vivo Y65
+Description: 
+Brand:Vivo
+Model:Y65 
+Release Year: 2017 
+RAM: 3GB
+ROM: 64GB
+CPU: 3.25GHz
+Price: 16990 BDT
+

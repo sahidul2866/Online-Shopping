@@ -1,0 +1,6 @@
+Name:Short Sleeve Casual Shirt
+Description:
+Brand:Shwapno
+Type:Short Sleeve Shirt
+Color:White
+Price:1290 BDT

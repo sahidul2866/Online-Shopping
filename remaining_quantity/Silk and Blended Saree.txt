@@ -1,0 +1,5 @@
+Name:Silk and Blended Saree
+Description:
+Brand:Shwapno
+Type:Saree(Silk & Blended)
+Price:3000 BDT

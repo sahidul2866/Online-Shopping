@@ -1,0 +1,8 @@
+Name:Toyota-Corolla-SE-Saloon-1999
+Description:
+Brand:Toyota
+Model:Corolla SE Saloon
+Release Year: 1999
+Engine Capacity	: 1200 CC
+Miles: 54000 KM
+Price : 698,000 BDT

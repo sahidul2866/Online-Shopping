@@ -1,0 +1,8 @@
+Name:Toyota-Vista-1996
+Description:
+Brand:Toyota
+Model:Vista
+Release Year: 1996
+Engine Capacity	: 1500 CC
+Miles: 59000 KM
+Price : 650,000 BDT

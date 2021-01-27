@@ -1,0 +1,10 @@
+Name:Symphony i10
+Description: 
+Brand: Symphony
+Model: i10 
+Release Year: 2016 
+RAM: 2 GB
+ROM: 16 GB 
+CPU: 1.3Ghz 
+Price: 6990 BDT
+

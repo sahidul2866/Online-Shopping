@@ -1,0 +1,10 @@
+Name:Walton Primo NX4 Mini
+Description: 
+Brand:Walton
+Model:Primo NX4 Mini
+Release Year: 2016
+RAM: 2GB
+ROM: 16GB
+CPU: 3.25GHz
+Price: 9990 BDT
+

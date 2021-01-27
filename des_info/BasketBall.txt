@@ -1,0 +1,7 @@
+Name:BasketBall
+Description:
+Product Type: Basketball
+Color: Orange
+>>Wide Channel Design for Incredible Grip & Feel
+>>Designed for Competitive Street Play
+Price:700 BDT

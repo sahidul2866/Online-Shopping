@@ -1,0 +1,8 @@
+Name:Nissan-Bluebird-Sylphy-2005
+Description:
+Brand:Nissan
+Model:Bluebird Sylphy
+Release Year: 2005
+Engine Capacity	: 2000 CC
+Miles: 65000 KM
+Price : 1,025,000 BDT

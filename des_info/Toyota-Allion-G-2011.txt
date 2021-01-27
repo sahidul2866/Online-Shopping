@@ -1,0 +1,8 @@
+Name:Toyota Allion G 
+Description:
+Brand:Toyota
+Model:Allion G
+Release Year: 2011
+Engine Capacity	: 1000 CC
+Miles: 60000 KM
+Price : 2,190,000 BDT

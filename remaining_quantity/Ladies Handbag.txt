@@ -1,0 +1,5 @@
+Name:Ladies Handbag
+Description:
+Brand:Leather Company
+Type:Handbag
+Price:1650 BDT

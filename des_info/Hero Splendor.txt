@@ -1,0 +1,7 @@
+Name:Hero Splendor
+Description:
+Brand:Hero
+Type:Bike
+Model:Splendor
+Engine Displacement: 150 cc
+Price: 1,63,000 BDT

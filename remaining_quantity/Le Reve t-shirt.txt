@@ -1,0 +1,6 @@
+Name:Le Reve t-shirt
+Description:
+Brand:Le Reve
+Type:Short Sleeve t-shirt
+Color:Light Green
+Price:790 BDT

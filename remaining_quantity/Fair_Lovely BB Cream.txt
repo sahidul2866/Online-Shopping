@@ -1,0 +1,5 @@
+Name:Fair&Lovely BB Cream
+Description:
+Brand:Unilever
+Type:BB Cream 
+Price:100 BDT

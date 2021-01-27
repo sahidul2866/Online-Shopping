@@ -1,0 +1,5 @@
+Name:Rado Centrix Jubile
+Description:
+Model:Rado Centrix Jubile
+Color: Black
+Price:6550 BDT

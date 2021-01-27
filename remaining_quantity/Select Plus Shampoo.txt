@@ -1,0 +1,5 @@
+Name:Select Plus Shampoo
+Description:
+Brand:Select Plus
+Type:Shampoo
+Price:175 BDT

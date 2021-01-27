@@ -1,0 +1,5 @@
+Name:Blue Aviator Polarized Sunglass
+Description:
+Type:Sunglass
+Color:Blue
+Price:990 BDT

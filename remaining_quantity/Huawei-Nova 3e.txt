@@ -1,0 +1,10 @@
+Name:Huawei Nova 3e
+Description: 
+Brand:Huawei
+Model:Nova 3e 
+Release Year:2018 
+RAM: 4GB
+ROM: 64/128 GB 
+CPU:4x2.36Ghz 
+Price:65900 BDT
+

@@ -1,0 +1,8 @@
+Name:Toyota X Noah
+Description:
+Brand:Toyota
+Model:X Noah
+Release Year: 2002
+Engine Capacity	: 2200 CC
+Miles: 64000 KM
+Price : 1,200,000 BDT

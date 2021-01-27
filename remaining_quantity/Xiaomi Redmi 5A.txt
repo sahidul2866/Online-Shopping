@@ -1,0 +1,10 @@
+Name:Xiaomi Redmi 5A
+Description: 
+Brand: Xiaomi
+Model: Redmi 5A
+Release Year: 2016 
+RAM: 3 GB
+ROM: 16 GB 
+CPU: 3.3Ghz 
+Price: 10990 BDT
+

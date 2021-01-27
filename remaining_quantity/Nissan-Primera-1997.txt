@@ -1,0 +1,8 @@
+Name:Nissan-Primera-1997
+Description:
+Brand:Nissan
+Model:Primera
+Release Year: 1997
+Engine Capacity	: 1500 CC
+Miles: 60000 KM
+Price : 680,000 BDT

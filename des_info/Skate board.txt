@@ -1,0 +1,5 @@
+Name:Skate board
+Description:
+Brand:Ospery
+Length:22"
+Price:4590 BDT

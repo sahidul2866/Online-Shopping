@@ -1,0 +1,6 @@
+Name:Golden WINGS Racket
+Description:
+Brand:Golden WINGS
+Type:Badminton Racket
+Length:680mm
+Price:650 BDT

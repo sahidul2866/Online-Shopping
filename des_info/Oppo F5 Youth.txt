@@ -1,0 +1,10 @@
+Name:Oppo F5 Youth
+Description: 
+Brand:Oppo
+Model:F5 Youth 
+Release Year: 2017 
+RAM: 4GB
+ROM: 16GB
+CPU: 2.6GHz
+Price: 21900 BDT
+

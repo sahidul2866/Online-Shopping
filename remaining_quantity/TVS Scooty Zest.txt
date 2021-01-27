@@ -1,0 +1,8 @@
+Name:TVS Scooty Zest
+Description:
+Brand:TVS
+Type:Scooty
+Model:Scooty Zest 110cc
+Engine Displacement: 109 cc
+Price: 1,47,500 BDT
+

@@ -1,0 +1,8 @@
+Name:Mazda-Demo-2004
+Description:
+Brand:Mazada
+Model:Demo
+Release Year: 2004
+Engine Capacity	: 2500 CC
+Miles: 69000 KM
+Price : 765,000 BDT
